@@ -13,6 +13,9 @@ Java command line program to calculate the score for 10 pin bowling.
 
 `java ./BowlingScore test`
 
+# References
+1. The unit test frame is from http://wiki.c2.com/?SimpleJavaUnitTestFramework
+
 # Todo
 1. Error handling.
 2. One file per class.
