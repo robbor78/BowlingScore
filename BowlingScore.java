@@ -1,4 +1,16 @@
-﻿/*
+﻿/* Bowling score calculator.
+ 
+ Compile instructions 
+ javac BowlingScore.java
+ 
+ Usage
+ Interactive user input
+ java ./BowlingScore
+
+ Run test cases
+ java ./BowlingScore test
+ 
+ Below is sample input for the interactive use case. Each number is the pinfalls for a single roll. 
 
 7
 3
